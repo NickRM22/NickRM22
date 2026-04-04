@@ -9,10 +9,11 @@ Também tenho uma base sólida em lógica de programação e foco em aprimorar m
 
 💻 Tecnologias que estudo:
 
-Java (foco principal)                         ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Java (foco principal)                        
 Python
 HTML & CSS
 JavaScript
 SQL
 
 🚀 Sempre em busca de me desenvolver e aprender algo novo.
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
