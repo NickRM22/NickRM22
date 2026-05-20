@@ -1,4 +1,4 @@
-##Hello! I'm Nicolas.
+Hello! I'm Nicolas.
 
 I'm 20 years old and currently studying Systems Analysis and Development. I'm passionate about technology and constantly looking to improve myself as a software developer.
 
