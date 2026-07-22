@@ -1,6 +1,6 @@
 Hello! I'm Nicolas.
 
-I'm 20 years old and currently studying Systems Analysis and Development. I'm passionate about technology and constantly looking to improve myself as a software developer.
+I'm 21 years old and currently studying Systems Analysis and Development. I'm passionate about technology and constantly looking to improve myself as a software developer.
 At the moment, I have knowledge in Java, Python, HTML, CSS, and JavaScript, with a strong focus on Java, where I develop practical projects to strengthen my skills. I also have a solid foundation in programming logic and I’m always working to improve through projects, continuous learning, and real-world challenges.
 
 🎯 Goal: to grow as a developer, build meaningful projects, and contribute to the community while evolving professionally.
