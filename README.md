@@ -20,7 +20,7 @@
 
 <br>
 
-/ about
+ about
 
 I'm Nicolas, a 21-year-old Systems Analysis and Development student at FIAP. I build academic and personal projects with a focus on Java, while expanding my skills in React, Node.js, and modern web development.
 
@@ -28,7 +28,7 @@ I enjoy connecting programming logic, interfaces, and databases to turn ideas in
 
 <br>
 
-/ toolkit
+ toolkit
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ I enjoy connecting programming logic, interfaces, and databases to turn ideas in
 
 <br>
 
-/ currently building my skills
+ currently building my skills
 
 Java + Maven — organizing projects and strengthening my object-oriented programming skills.
 
