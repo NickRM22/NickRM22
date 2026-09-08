@@ -20,7 +20,7 @@
 
 <br>
 
- about
+ ABOUT
 
 I'm Nicolas, a 21-year-old Systems Analysis and Development student at FIAP. I build academic and personal projects with a focus on Java, while expanding my skills in React, Node.js, and modern web development.
 
@@ -28,7 +28,7 @@ I enjoy connecting programming logic, interfaces, and databases to turn ideas in
 
 <br>
 
- toolkit
+ TOOLKIT
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ I enjoy connecting programming logic, interfaces, and databases to turn ideas in
 
 <br>
 
- currently building my skills
+ CURRENTLY BUILDING MY SKILLS
 
 Java + Maven — organizing projects and strengthening my object-oriented programming skills.
 
@@ -108,7 +108,7 @@ Databases & development environment
 
 
 
-What I'm practicing
+WHAT I'M PRATICING
 
 Java: object-oriented programming, collections, exception handling, and project organization with Maven.
 
@@ -120,7 +120,7 @@ Node.js & JavaScript: strengthening my foundations and exploring back-end develo
 
 Development workflow: Git, GitHub, Linux, and the terminal.
 
-My direction
+MY DIRECTION
 
 I'm looking for opportunities to grow as a software developer, contribute to a team, and build useful applications. My main interest is Java back-end development, while continuing to develop the front-end skills to build more complete projects.
 
