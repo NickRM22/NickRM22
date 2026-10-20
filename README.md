@@ -40,11 +40,16 @@ On the front-end, I build interfaces with React and JavaScript. My goal is to de
       <sub>Object-oriented programming, application structure, and back-end fundamentals.</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>02 &nbsp; Python & Automation</h4>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
-      <p>Python · Pandas · PyAutoGUI · n8n</p>
-      <sub>Data manipulation, spreadsheet workflows, repetitive task automation, and workflow integration.</sub>
-    </td>
+  <h4>02 &nbsp; Python & Automation</h4>
+
+  <img src="https://skillicons.dev/icons?i=python,pandas&theme=dark" alt="Python and Pandas" />
+  <img src="https://img.shields.io/badge/PyAutoGUI-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="PyAutoGUI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+  <p>Python · Pandas · PyAutoGUI · n8n</p>
+
+  <sub>Data manipulation, spreadsheet workflows, repetitive task automation, and workflow integration.</sub>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -54,11 +59,14 @@ On the front-end, I build interfaces with React and JavaScript. My goal is to de
       <sub>Reusable components, responsive interfaces, and modern UI development.</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>04 &nbsp; Databases & Persistence</h4>
-      <img src="https://skillicons.dev/icons?i=oracle,mysql&theme=dark" alt="Oracle Database and MySQL" />
-      <p>SQL · Oracle Database · JDBC · CRUD · DAO</p>
-      <sub>Relational databases, data persistence, and database integration.</sub>
-    </td>
+  <h4>04 &nbsp; Databases & Persistence</h4>
+
+  <img src="https://skillicons.dev/icons?i=oracle,sqlite&theme=dark" alt="Oracle Database and SQLite" />
+
+  <p>SQL · Oracle Database · SQLite · JDBC · CRUD · DAO</p>
+
+  <sub>Relational databases, data persistence, and database integration.</sub>
+</td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
