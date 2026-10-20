@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:06B6D4&height=230&section=header&text=Nicolas%20Martins&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20PYTHON%20AUTOMATION&descSize=15&descAlignY=58&animation=fadeIn" alt="Nicolas Martins — Java, Spring Boot and Python Automation" />
 </p>
@@ -40,16 +39,12 @@ On the front-end, I build interfaces with React and JavaScript. My goal is to de
       <sub>Object-oriented programming, application structure, and back-end fundamentals.</sub>
     </td>
     <td width="50%" valign="top">
-  <h4>02 &nbsp; Python & Automation</h4>
-
-  <img src="https://skillicons.dev/icons?i=python,pandas&theme=dark" alt="Python and Pandas" />
-  <img src="https://img.shields.io/badge/PyAutoGUI-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="PyAutoGUI" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-
-  <p>Python · Pandas · PyAutoGUI · n8n</p>
-
-  <sub>Data manipulation, spreadsheet workflows, repetitive task automation, and workflow integration.</sub>
-</td>
+      <h4>02 &nbsp; Python & Automation</h4>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,n8n&theme=dark" alt="Python, Pandas and n8n" />
+      <img src="https://img.shields.io/badge/PyAutoGUI-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" height="48" alt="PyAutoGUI" />
+      <p>Python · Pandas · PyAutoGUI · n8n</p>
+      <sub>Data manipulation, spreadsheet workflows, repetitive task automation, and workflow integration.</sub>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -59,14 +54,12 @@ On the front-end, I build interfaces with React and JavaScript. My goal is to de
       <sub>Reusable components, responsive interfaces, and modern UI development.</sub>
     </td>
     <td width="50%" valign="top">
-  <h4>04 &nbsp; Databases & Persistence</h4>
-
-  <img src="https://skillicons.dev/icons?i=oracle,sqlite&theme=dark" alt="Oracle Database and SQLite" />
-
-  <p>SQL · Oracle Database · SQLite · JDBC · CRUD · DAO</p>
-
-  <sub>Relational databases, data persistence, and database integration.</sub>
-</td>
+      <h4>04 &nbsp; Databases</h4>
+      <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=databricks&logoColor=22D3EE" height="48" alt="SQL" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,oracle&theme=dark" alt="SQLite and Oracle Database" />
+      <p>SQL · Oracle Database · SQLite · JDBC</p>
+      <sub>Relational databases, data persistence, and database integration.</sub>
+    </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
